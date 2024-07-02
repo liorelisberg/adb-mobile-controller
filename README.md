@@ -23,10 +23,10 @@ Make sure you have Node.js installed on your computer. You can download it from 
    ```bash
    npm run build
 
-### Run the project:
+### Run the project
 4. **Start an Android device: Fire up your favorite Android emulator.**
 
-5. **Building the Project:**
+5. **Running the Project:**
    ```bash
    npm run start
 
