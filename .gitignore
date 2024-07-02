@@ -1,0 +1,29 @@
+# Dependency directories
+/node_modules
+
+# Logs and runtime data
+/logs
+/*.log*
+
+# Environment configuration
+.env
+
+# macOS specific files
+.DS_Store
+
+# IDE-specific files
+.idea/
+
+# Operating System files
+Thumbs.db
+Desktop.ini
+
+# Ignore npm debug log
+npm-debug.log*
+
+# Ignore yarn integrity file
+.yarn-integrity
+
+# Ignore proxy configuration file
+/src/managers/proxy-config.json
+/dist/managers/proxy-config.json
