@@ -17,6 +17,16 @@ Make sure you have Node.js installed on your computer. You can download it from 
    ```bash
    npm install
 
+3. **Create a `proxy-config.json', under `src\managers`, to configurate your proxy settings.
+   **should contain the following json format:**
+   ```bash
+   {
+       "proxy": "my_proxy",
+       "port": "my_port",
+       "authToken": "my_auth-token",
+       "password": "my_password"
+   }
+
 ### Building the Project
 
 3. **Building the Project:**
